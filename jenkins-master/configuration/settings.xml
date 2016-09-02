@@ -12,7 +12,7 @@
       <id>nexus</id>
       <mirrorOf>*</mirrorOf>
       <!-- url>http://nexus-continuous-delivery.rhel-cdk.10.1.2.2.xip.io/content/groups/public/</url -->
-      <url>http://nexus/content/groups/public/</url>
+      <url>http://nexus:8081/content/groups/public/</url>
     </mirror>
   </mirrors>
   <profiles>
